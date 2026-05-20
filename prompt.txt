@@ -1,26 +1,13 @@
-Propuesta de commits para Etapa 1 - TechFix
-
-1) Resumen (tres oraciones):
-Progreso: Implementé la estructura completa (nav, hero, servicios, marcas, tabla, testimonios y footer) y estilos responsive.
-Archivos modificados: index.html, style.css e ingreso.html (placeholder).
-Sugerencia: agregar la imagen al proyecto y completar el formulario de ingreso en la Etapa 2.
-
-2) Indicaciones para el commit 1:
-- Agregar este archivo `prompt.txt` con la información de la Etapa 1.
-- Mensaje de commit sugerido: "chore(etapa1): add prompt.txt con instrucciones de commits"
-
-3) Espacios donde debe responder el autor:
-Prompt para Copilot:
-
-
----
-Commit 2 (etapa 1) - nota final:
-- Añadir aquí una breve confirmación de la revisión de la Etapa 1: 
-
-- Checklist (dejar en blanco para que el autor complete):
-	- ¿Se colocó la imagen de hero en la raíz? 
-  
-	- ¿Quedó responsive en móvil y escritorio? 
-  
-	- Comentarios adicionales: 
+============================================================ CONSULTA
+#[numero] Etapa del proyecto: Etapa 1 Fecha:20-05-2026
+[DD/MM/AAAA] ------------------------------------------------------------
+PROMPT ENVIADO A COPILOT: [Copiar aqui el texto exacto que se escribio en
+Copilot] ------------------------------------------------------------
+RESPUESTA RECIBIDA (resumen breve): [Resumir en no mas de tres oraciones que
+respondio Copilot] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [Explicar con tus propias palabras si usaste la
+respuesta tal cual, si la modificaste o si la descartaste. Indicar por que
+tomaste esa decision.] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Escribir con tus propias palabras: fue util el
+prompt? Obtuviste lo que esperabas? Que cambiarias la proxima vez?]
 
