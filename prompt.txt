@@ -12,3 +12,15 @@ Sugerencia: agregar la imagen al proyecto y completar el formulario de ingreso e
 3) Espacios donde debe responder el autor:
 Prompt para Copilot:
 
+
+---
+Commit 2 (etapa 1) - nota final:
+- Añadir aquí una breve confirmación de la revisión de la Etapa 1: 
+
+- Checklist (dejar en blanco para que el autor complete):
+	- ¿Se colocó la imagen de hero en la raíz? 
+  
+	- ¿Quedó responsive en móvil y escritorio? 
+  
+	- Comentarios adicionales: 
+
