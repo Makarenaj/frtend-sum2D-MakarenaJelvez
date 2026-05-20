@@ -1,0 +1,14 @@
+Propuesta de commits para Etapa 1 - TechFix
+
+1) Resumen (tres oraciones):
+Progreso: Implementé la estructura completa (nav, hero, servicios, marcas, tabla, testimonios y footer) y estilos responsive.
+Archivos modificados: index.html, style.css e ingreso.html (placeholder).
+Sugerencia: agregar la imagen al proyecto y completar el formulario de ingreso en la Etapa 2.
+
+2) Indicaciones para el commit 1:
+- Agregar este archivo `prompt.txt` con la información de la Etapa 1.
+- Mensaje de commit sugerido: "chore(etapa1): add prompt.txt con instrucciones de commits"
+
+3) Espacios donde debe responder el autor:
+Prompt para Copilot:
+
